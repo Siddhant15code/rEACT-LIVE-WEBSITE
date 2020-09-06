@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "322d45005d67aa4fe73edd67d9d350bc",
+    "revision": "07628ff56195b447c1d7d10b11b3add2",
     "url": "/rEACT-LIVE-WEBSITE/index.html"
   },
   {
-    "revision": "5ee2de0c5327461cea3b",
+    "revision": "7d962de8e6e8ba3ef7f9",
     "url": "/rEACT-LIVE-WEBSITE/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rEACT-LIVE-WEBSITE/static/js/2.811de99d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ee2de0c5327461cea3b",
-    "url": "/rEACT-LIVE-WEBSITE/static/js/main.dcab86b8.chunk.js"
+    "revision": "7d962de8e6e8ba3ef7f9",
+    "url": "/rEACT-LIVE-WEBSITE/static/js/main.0e4f2877.chunk.js"
   },
   {
     "revision": "b5d2c2ea531a42b46d51",
