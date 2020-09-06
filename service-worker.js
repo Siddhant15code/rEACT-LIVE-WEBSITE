@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rEACT-LIVE-WEBSITE/precache-manifest.8c325721fea199a9006e9f3c64089492.js"
+  "/rEACT-LIVE-WEBSITE/precache-manifest.6c225c37c239f8b1a8c86e249941cd25.js"
 );
 
 self.addEventListener('message', (event) => {
